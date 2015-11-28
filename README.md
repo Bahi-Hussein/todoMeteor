@@ -1,2 +1,2 @@
 # TodoMeteor
-## a TodoApp built with Meteor. 
+a TodoApp built with Meteor. 
